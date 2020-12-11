@@ -1,0 +1,30 @@
+
+
+    database server
+    den1.mssql8.gear.host
+
+    plan
+    Free (upgrade)
+
+    data utilization
+    8.00MB
+
+database users
+	Username 	Password 	Permission 	
+	boot 	Al23rdr~gp-7 	Read & Write 
+
+
+
+
+https://www.cccyun.net
+playnet
+
+产品/服务:
+美国免费主机 
+http://23.224.53.118:3312/vhost/index.php?c=domain&a=show
+面板用户名/密码 :
+s1985725 / naBW59ooLO
+
+
+ovo
+zr36jc55zfqg
